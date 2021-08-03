@@ -1,4 +1,4 @@
-# proj4
+# proj4 - MeadelaGym
 
 ## Project setup
 ```
